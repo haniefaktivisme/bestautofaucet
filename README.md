@@ -1,2 +1,10 @@
 # bestautofaucet
-Cara penggunaannya buka terlebih dahulu file config.php dan isi data useragent dan cookie yg di perintah di sana. Untuk mendapatkan useragent dan cookie gunakan apk kiwi browser.
+<br> Cara install :
+<br> ==> Ketik di termux atau copy di bawah dan paste di termux.</br>
+<br> =>git clone https://github.com/haniefaktivisme/bestautofaucet.git
+<br> =>cd bestautofaucet
+<br> =>nano config.php
+<br> =>Isi data sesuai yg di perintahkan.
+<br> =>Kemudian Jalankan dengan mengetik php go.php
+Selesai.
+
